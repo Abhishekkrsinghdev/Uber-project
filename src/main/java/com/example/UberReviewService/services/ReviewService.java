@@ -1,8 +1,8 @@
 package com.example.UberReviewService.services;
 
+import com.example.UberProject_EntityService.models.Review;
 import com.example.UberReviewService.dtos.ReviewDto;
 import com.example.UberReviewService.dtos.UpdateReviewDto;
-import com.example.UberReviewService.models.Review;
 
 import java.util.List;
 

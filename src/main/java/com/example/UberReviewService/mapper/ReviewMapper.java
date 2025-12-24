@@ -1,7 +1,7 @@
 package com.example.UberReviewService.mapper;
 
+import com.example.UberProject_EntityService.models.Review;
 import com.example.UberReviewService.dtos.ReviewDto;
-import com.example.UberReviewService.models.Review;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
